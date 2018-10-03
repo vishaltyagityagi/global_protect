@@ -1,0 +1,7 @@
+tar -xvf GlobalProtect_tar-4.1.5.0-8.tgz   #path of ur file which u have downloaded.
+
+sudo dpkg -i GlobalProtect_deb-4.1.5.0-8.deb
+
+
+
+now run globalprotect	
